@@ -2,8 +2,6 @@
 
 # Broesel-Oxide
 
-**[SCREENSHOTS](../screenshots/showcase.md)** -
-
 ![Main Menu](../screenshots/ob_1_mainmenu.png))
 ![Class Selection](../screenshots/ob_2_classselection.png)
 ![Gameplay](../screenshots/ob_3_gameplay.png)
