@@ -6,7 +6,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Surface-Medium"
+				"name"		"surface-medium"
 				"tall"		"8"
 				"additive"	"0"
 				"antialias" "1"
@@ -17,7 +17,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Surface-Medium"
+				"name"		"surface-medium"
 				"tall"		"9"
 				"additive"	"0"
 				"antialias" "1"
@@ -28,7 +28,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Surface-Medium"
+				"name"		"surface-medium"
 				"tall"		"10"
 				"additive"	"0"
 				"antialias" "1"
@@ -39,7 +39,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Surface-Medium"
+				"name"		"surface-medium"
 				"tall"		"10"
 				"additive"	"0"
 				"antialias" "1"
@@ -51,7 +51,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Surface-Medium"
+				"name"		"surface-medium"
 				"tall"		"11"
 				"additive"	"0"
 				"antialias" "1"
@@ -62,7 +62,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Surface-Medium"
+				"name"		"surface-medium"
 				"tall"		"12"
 				"additive"	"0"
 				"antialias" "1"
@@ -73,7 +73,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Surface-Medium"
+				"name"		"surface-medium"
 				"tall"		"12"
 				"additive"	"0"
 				"antialias" "1"
@@ -85,7 +85,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Surface-Medium"
+				"name"		"surface-medium"
 				"tall"		"13"
 				"additive"	"0"
 				"antialias" "1"
@@ -96,7 +96,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Surface-Medium"
+				"name"		"surface-medium"
 				"tall"		"14"
 				"additive"	"0"
 				"antialias" "1"
@@ -107,7 +107,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Surface-Medium"
+				"name"		"surface-medium"
 				"tall"		"15"
 				"additive"	"0"
 				"antialias" "1"
@@ -118,7 +118,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Surface-Medium"
+				"name"		"surface-medium"
 				"tall"		"15"
 				"additive"	"0"
 				"antialias" "1"
@@ -130,7 +130,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Surface-Medium"
+				"name"		"surface-medium"
 				"tall"		"16"
 				"additive"	"0"
 				"antialias" "1"
@@ -141,7 +141,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Surface-Medium"
+				"name"		"surface-medium"
 				"tall"		"18"
 				"additive"	"0"
 				"antialias" "1"
@@ -152,7 +152,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Surface-Medium"
+				"name"		"surface-medium"
 				"tall"		"18"
 				"additive"	"0"
 				"antialias" "1"
@@ -164,7 +164,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Surface-Medium"
+				"name"		"surface-medium"
 				"tall"		"20"
 				"additive"	"0"
 				"antialias" "1"
@@ -175,7 +175,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Surface-Medium"
+				"name"		"surface-medium"
 				"tall"		"23"
 				"additive"	"0"
 				"antialias" 	"1"
@@ -186,7 +186,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Surface-Medium"
+				"name"		"surface-medium"
 				"tall"		"23"
 				"additive"	"0"
 				"antialias" 	"1"
@@ -198,7 +198,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Surface-Medium"
+				"name"		"surface-medium"
 				"tall"		"24"
 				"additive"	"0"
 				"antialias" 	"1"
@@ -209,7 +209,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Surface-Medium"
+				"name"		"surface-medium"
 				"tall"		"24"
 				"additive"	"0"
 				"antialias" 	"1"
@@ -221,7 +221,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Surface-Medium"
+				"name"		"surface-medium"
 				"tall"		"26"
 				"additive"	"0"
 				"antialias" 	"1"
@@ -232,7 +232,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Surface-Medium"
+				"name"		"surface-medium"
 				"tall"		"26"
 				"additive"	"0"
 				"antialias" 	"1"
@@ -244,7 +244,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Surface-Medium"
+				"name"		"surface-medium"
 				"tall"		"28"
 				"additive"	"0"
 				"antialias" 	"1"
@@ -255,7 +255,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Surface-Medium"
+				"name"		"surface-medium"
 				"tall"		"28"
 				"additive"	"0"
 				"antialias" 	"1"
@@ -290,7 +290,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Surface-Medium"
+				"name"		"surface-medium"
 				"tall"		"32"
 				"additive"	"0"
 				"antialias" 	"1"
@@ -301,7 +301,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Surface-Medium"
+				"name"		"surface-medium"
 				"tall"		"36"
 				"additive"	"0"
 				"antialias" 	"1"
@@ -312,7 +312,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Surface-Medium"
+				"name"		"surface-medium"
 				"tall"		"36"
 				"additive"	"0"
 				"antialias" 	"1"
@@ -324,7 +324,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Surface-Medium"
+				"name"		"surface-medium"
 				"tall"		"40"
 				"additive"	"0"
 				"antialias" 	"1"
@@ -335,7 +335,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Surface-Medium"
+				"name"		"surface-medium"
 				"tall"		"52"
 				"additive"	"0"
 				"antialias" 	"1"
@@ -346,7 +346,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Surface-Medium"
+				"name"		"surface-medium"
 				"tall"		"60"
 				"additive"	"0"
 				"antialias" 	"1"
@@ -357,7 +357,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Surface-Medium"
+				"name"		"surface-medium"
 				"tall"		"72"
 				"additive"	"0"
 				"antialias" 	"1"
@@ -390,7 +390,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"SurfaceNumbers-Sharpened"
+				"name"		"surfacenumbers-sharpened"
 				"tall"		"14"
 				"additive"	"0"
 				"antialias" 	"1"
@@ -401,7 +401,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"SurfaceNumbers-Sharpened"
+				"name"		"surfacenumbers-sharpened"
 				"tall"		"18"
 				"additive"	"0"
 				"antialias" 	"1"
@@ -423,18 +423,18 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Blank"
+				"name"		"blank"
 				"tall"		"8"
 				"additive"	"0"
 				"antialias" 	"1"
 				"outline"	"0"
 			}
 		}
-		"Blocks"
+		Blocks
 		{
 			"1"
 			{
-				"name"		"Blocks"
+				"name"		"blocks"
 				"tall"		"72"
 				"additive"	"0"
 				"antialias" "0"
@@ -446,23 +446,23 @@ Scheme
 	{
 		"8"
 		{
-			"font" "resource/fonts/Surface-Medium.otf"
-			"name" "Surface-Medium"
+			"font" "resource/fonts/surface-medium.otf"
+			"name" "surface-medium"
 		}
 		"9"
 		{
-			"font" "resource/fonts/SurfaceNumbers-Sharpened.otf"
-			"name" "SurfaceNumbers-Sharpened"
+			"font" "resource/fonts/surfacenumbers-sharpened.otf"
+			"name" "surfacenumbers-sharpened"
 		}
 		"10"
 		{
-			"font" "resource/fonts/Blank.ttf"
-			"name" "Blank"
+			"font" "resource/fonts/blank.ttf"
+			"name" "blank"
 		}
 		"11"
 		{
-			"font" "resource/fonts/Blocks.ttf"
-			"name" "Blocks"
+			"font" "resource/fonts/blocks.ttf"
+			"name" "blocks"
 		}
 	}
 }

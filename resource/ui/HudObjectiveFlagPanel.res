@@ -105,8 +105,8 @@
 		"enabled"		"1"
 		"textAlignment"	"west"	
 		"labelText"		"%bluescore%"
-		"font"			"surface36"
-		"fgcolor"		"255 255 255 255"
+		"font"			"TeamMenuBold"
+		"fgcolor"		"TanLight"
 		
 		"if_hybrid"
 		{
@@ -137,7 +137,7 @@
 		"enabled"		"1"
 		"textAlignment"	"west"	
 		"labelText"		"%bluescore%"
-		"font"			"surface36"
+		"font"			"TeamMenuBold"
 		"fgcolor"		"60 81 100 255"
 		
 		"if_hybrid"
@@ -169,8 +169,8 @@
 		"enabled"		"1"
 		"textAlignment"	"east"	
 		"labelText"		"%redscore%"
-		"font"			"surface36"
-		"fgcolor"		"255 255 255 255"	
+		"font"			"TeamMenuBold"
+		"fgcolor"		"TanLight"	
 		
 		"if_hybrid"
 		{
@@ -201,7 +201,7 @@
 		"enabled"		"1"
 		"textAlignment"	"east"	
 		"labelText"		"%redscore%"
-		"font"			"surface36"
+		"font"			"TeamMenuBold"
 		"fgcolor"		"150 50 50 255"		
 		
 		"if_hybrid"
