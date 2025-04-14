@@ -11,8 +11,9 @@
 
 # Credits
 
-## Hypnootize
-Maintaining Broesel-Hud and Oxide Hud
+<div align="left">
 
-## CriticalFlaw and friends
-TF2 Community Hud Fixes
+**Hypnootize :** Maintaining Broesel-Hud and Oxide Hud, m0rehud inspiration for missing/broken stuff
+
+**CriticalFlaw and friends :** TF2 Community Hud Fixes
+
