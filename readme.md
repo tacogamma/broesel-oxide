@@ -8,3 +8,11 @@
 ![Medic Heals](../screenshots/ob_4_pocketmedic.png)
 ![Scoreboard](../screenshots/ob_5_scoreboard.png)
 ![Win Panel](../screenshots/ob_6_win.png)
+
+# Credits
+
+## Hypnootize
+Maintaining Broesel-Hud and Oxide Hud
+
+## CriticalFlaw and friends
+TF2 Community Hud Fixes
