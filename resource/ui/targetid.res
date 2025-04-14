@@ -74,7 +74,7 @@
 	{	
 		"ControlName"		"Label"
 		"fieldName"		"TargetNameLabel"
-		"font"			"TFFontLarge"
+		"font"			"TFFontLarge" 
 		"xpos"			"35"
 		"ypos"			"13"
 		"zpos"			"1"
@@ -94,7 +94,7 @@
 	{	
 		"ControlName"		"Label"
 		"fieldName"		"TargetDataLabel"
-		"font"			"DefaultVerySmall"
+		"font"			"DefaultVerySmallShadow"
 		"xpos"			"35"
 		"ypos"			"17"	[$WIN32]
 		"ypos"			"22"	[$X360]
