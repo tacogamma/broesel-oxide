@@ -55,10 +55,10 @@
 		"image"			"../hud/health_over_bg"
 		"scaleImage"	"1"	
 	}
-	"PlayerStatusHealthValue"
+	"PlayerStatusHealthValueTargetID"
 	{
 		"ControlName"	"CExLabel"
-		"fieldName"		"PlayerStatusHealthValue"
+		"fieldName"		"PlayerStatusHealthValueTargetID"
 		"xpos"			"6"
 		"ypos"			"11"
 		"zpos"			"5"
@@ -68,7 +68,7 @@
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
-		"font"			"DefaultOutline"//"DefaultVerySmall"
+		"font"			"DefaultOutline"
 		"fgcolor_override"		"255 255 255 255"
 	}
 	"PlayerStatusPlayerLevel"

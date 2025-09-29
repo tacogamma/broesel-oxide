@@ -123,9 +123,9 @@
 		"enabled"		"1"	
 		"HealthBonusPosAdj"	"10"
 		"HealthDeathWarning"	"0.49"
-		"TFFont"		"HudFontSmall"
+		"TFFont"		"DefaultOutline"
 		"HealthDeathWarningColor"	"HUDDeathWarning"
-		"TextColor"		"HudOffWhite"
+		"TextColor"		"255 255 255 255"
 	}
 	
 	"AmmoIcon"

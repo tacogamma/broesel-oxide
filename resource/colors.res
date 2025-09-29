@@ -27,6 +27,8 @@ Scheme
 		"Low-Ammo Warning 2"  			"255 0 0 255"
 		
 		"TanLight"						"235 226 202 255"
+		
+		"Damage"						"245 185 65 255"
 
 		///////////////////////////////////////////////////////////
 		/////////// END OF COLOR CUSTOMIZATION SECTION ////////////

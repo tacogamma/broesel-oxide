@@ -132,7 +132,7 @@
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
 		"font"		"surfaceHPAmmo72"
-		"fgcolor"		"0 0 0 255"
+		"fgcolor"		"black"
 	}
 	"PlayerStatusBleedImage"
 	{

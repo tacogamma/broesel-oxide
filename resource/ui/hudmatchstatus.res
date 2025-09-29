@@ -314,7 +314,7 @@
 		"12v12_gap"				"1"
 		
 		"team1_grow_dir"		"west"
-		"team1_base_x"			"c-45"
+		"team1_base_x"			"c-47"
 		"team1_max_expand"		"133"
 		
 		"team2_grow_dir"		"east"
